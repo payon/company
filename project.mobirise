@@ -33,7 +33,7 @@
       "presetSourceTheme": "mobirise5"
     },
     "path": "@PROJECT_PATH@",
-    "name": "Company",
+    "name": "금융거래회사",
     "versionFirst": "5.5.8",
     "siteFonts": [
       {
@@ -44,7 +44,7 @@
     ],
     "chatbutton": {},
     "favicon": false,
-    "mbrsiteDomain": "a5e2o8afyw",
+    "mbrsiteDomain": "7jah3emhnf",
     "imageResize": true,
     "cssOptimize": true,
     "lazyLoad": true,
@@ -79,13 +79,14 @@
       "themeColor": "#6592e6"
     },
     "uniqCompNum": 2,
-    "versionPublish": "6.1.4"
+    "versionPublish": "6.1.4",
+    "usedWebp": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "금융거래회사",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
